@@ -7,7 +7,7 @@
     "node": ">=0.12.0"
   },
   "dependencies": {
-    "css-selector-tokenizer": "git+https://github.com/exceptioncpp/css-selector-tokenizer.git",
+    "css-selector-tokenizer": "https://github.com/exceptioncpp/css-selector-tokenizer/archive/master.tar.gz",
     "cssnano": ">=2.6.1 <4",
     "loader-utils": "~0.2.2",
     "lodash.camelcase": "^3.0.1",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:webpack/css-loader.git"
+    "url": "git@github.com:exceptioncpp/css-loader.git"
   },
   "license": "MIT"
 }
